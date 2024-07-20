@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nirmal Kotal</h1>
 <h3 align="center">A quantitative finance enthusiast with a Ph.D. in Mathematics from India.</h3>
-<img align="right" alt="finance" width="400" src="https://github.com/user-attachments/assets/c7c6c10f-cbb2-441c-a1c5-4b3a3d6f9971">
+<img align="right" alt="finance" width="400" src="https://miro.medium.com/v2/resize:fit:1358/0*PB5He9TbubxPLv7O">
 
 - 📫 How to reach me **nirmalkotal@gmail.com**
 
