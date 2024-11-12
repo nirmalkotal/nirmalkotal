@@ -3,6 +3,7 @@
 <img align="right" alt="finance" width="400" src="https://github.com/nirmalkotal/nirmalkotal/blob/main/sample-pic.gif">
 
 - 📫 How to reach me **nirmalkotal@gmail.com**
+- My Mathematics research profile is here **https://github.com/nirmalkotal/math-research**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
